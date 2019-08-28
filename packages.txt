@@ -1,0 +1,8 @@
+numpy
+matplotlib
+tensorflow==2.0.0-beta1
+pillow
+scikit-learn
+pydotplus
+graphviz
+jupyter
