@@ -1,6 +1,6 @@
 numpy
 matplotlib
-tensorflow==2.5.3
+tensorflow==2.7.2
 pillow
 scikit-learn
 pydotplus
